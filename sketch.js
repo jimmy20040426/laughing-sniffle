@@ -16,7 +16,7 @@ let classifier;
 let label = "listening";
 
 // Teachable Machine model URL:
-let soundModelURL = 'https://jimmy20040426.github.io/laughing-sniffle/';
+let soundModelURL = 'https://jimmy20040426.github.io/laughing-sniffle/model.json';
 
 
 function preload() {
